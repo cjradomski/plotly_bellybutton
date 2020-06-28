@@ -1,1 +1,3 @@
 # plotly_bellybutton
+
+In this project, a dashboard was created summarizing the demographic information and belly button bacterial data of volunteers assisting Improbable Beef in idnetifying a species of bacteria that will be key in manufacturing synthetic Beef. The visualizations in the dashboard include a bar chart displaying the top 10 basterial species for a specific volunteer, a bubble chart showing the relative frequency of all the bacterial species found in a volunteer's navels, and an interactive feature that allows the use to filter the data based on volunteer ID and display their demographic information. 
